@@ -1,0 +1,24 @@
+{
+  "name": "odysee-ul-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/en-agraur/odysee-ul-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/en-agraur/odysee-ul-server/issues"
+  },
+  "homepage": "https://github.com/en-agraur/odysee-ul-server#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
